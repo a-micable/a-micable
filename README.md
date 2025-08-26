@@ -5,15 +5,15 @@
 ---
 
 ## ⭐ About Me
-I’m an **Electronics and Communication Engineering student** with a strong focus on building scalable, production-ready systems.  
+I’m an **Electronics and Communication Engineering student** with a strong focus on building scalable, production ready systems.  
 My passion lies in **Machine Learning Engineering, MLOps, and AI Systems Architecture**.  
-With a keen interest in **MLOps**, I strive to bridge the gap between research and real-world impact by delivering end-to-end ML pipelines.
+With a keen interest in **MLOps**, I strive to bridge the gap between research and real world impact by delivering end to end ML pipelines.
 
 ---
 
 ## 🔭 What I’m Working On
 - **Personal Projects**
-  - Fine-tuning transformer models for low-resource NLP
+  - Fine tuning transformer models for low resource NLP
   - Exploring LLMs for reasoning tasks
   - Edge AI deployment using TFLite and ONNX
 
@@ -24,7 +24,7 @@ With a keen interest in **MLOps**, I strive to bridge the gap between research a
 ---
 
 ## 📚 What I’m Learning
-- State-of-the-art methods for low-resource NLP  
+- State of the art methods for low resource NLP  
 - Optimizing large language models for production  
 - Advanced MLOps with **Airflow, MLflow, and Kubeflow**
 
