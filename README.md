@@ -1,39 +1,42 @@
-# Hi there! 👋 I'm Amicable Alemayehu
+# 👋 Hello, I’m Amicable Alemayehu  
 
-**AI/ML Engineer | Passionate about NLP, Generative AI, and Scalable Machine Learning Systems**
-
----
-
-## ⭐ About Me
-I’m an **Electronics and Communication Engineering student** with a strong focus on building scalable, production ready systems.  
-My passion lies in **Machine Learning Engineering, MLOps, and AI Systems Architecture**.  
-With a keen interest in **MLOps**, I strive to bridge the gap between research and real world impact by delivering end to end ML pipelines.
+**AI/ML Engineer | Focused on NLP, Generative AI & Scalable ML Infrastructure**  
 
 ---
 
-## 🔭 What I’m Working On
-- **Personal Projects**
-  - Fine tuning transformer models for low resource NLP
-  - Exploring LLMs for reasoning tasks
-  - Edge AI deployment using TFLite and ONNX
-
-- **Workspace Initiatives**
-  - Architecting scalable AI pipelines with MLOps principles
-  - Automating deployment with CI/CD (Docker, Kubernetes)
+## 🌟 About Me  
+🎓 Electronics & Communication Engineering student passionate about **AI/ML**.  
+⚡ Interested in **Machine Learning Engineering, MLOps, and AI System Design**.  
+🚀 My mission: **Translate research ideas into scalable, production-ready solutions**.  
 
 ---
 
-## 📚 What I’m Learning
-- State of the art methods for low resource NLP  
-- Optimizing large language models for production  
-- Advanced MLOps with **Airflow, MLflow, and Kubeflow**
+## 🚀 What I’m Working On  
+
+### 🔹 Independent Projects  
+- Adapting **transformer models** for low resource NLP (Afaan Oromo & beyond).  
+- Experimenting with **LLMs** for reasoning & generative tasks.  
+- Deploying AI on **edge devices** (TensorFlow Lite, ONNX).  
+
+### 🔹 Team & Collaborative Work  
+- Architecting **end to end ML pipelines** with MLOps practices.  
+- Automating deployment with **CI/CD (Docker, Kubernetes)**.  
 
 ---
 
-## 💬 Let’s Talk About
-- **NLP:** Transformers, embeddings, tokenization  
-- **LLMs & Generative AI:** Fine-tuning, optimization, applications  
-- **MLOps:** CI/CD, monitoring, versioning, scalability  
-- **Backend AI Deployment:** APIs, serverless, cloud scaling  
+## 📖 Learning & Exploration  
+- Latest methods in **low resource NLP**.  
+- Scaling & optimizing **LLMs for production**.  
+- Building advanced **MLOps ecosystems** with **MLflow, Airflow, Kubeflow**.  
 
+---
 
+## 💡 Let’s Talk About  
+- **NLP:** Tokenization, embeddings, transformers.  
+- **Generative AI & LLMs:** Fine tuning, optimization, applied use cases.  
+- **MLOps:** Automation, monitoring, scalability.  
+- **AI Deployment:** APIs, serverless, cloud-native scaling.  
+
+---
+
+✨ *Always curious. Always building.* 🚀
